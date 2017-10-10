@@ -765,7 +765,7 @@ UserPreviewComponent.propTypes = {
 
 In a parent component, ie `SettingsComponent`:
 
-```ts
+```jsx
 import React from 'react';
 
 class SettingsComponent extends React.Component {
